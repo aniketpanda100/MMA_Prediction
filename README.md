@@ -4,6 +4,7 @@ README for CSC 580 Project
 Author: Aniket Panda
 Date: December 8, 2023
 
+
 ## Notes
 
 To run program, simply ensure all included files are within the same directory and type
@@ -14,6 +15,7 @@ the References section below. The program was tested using macOS Monterey Versio
 as an OS. When running mma_tuning.py, it is advised that the 10-fold cross validation 
 blocks are commented out as these take a very long time. There are no bugs or other 
 noteworthy idiosyncracies as far as I know.
+
 
 ## Included files
 
