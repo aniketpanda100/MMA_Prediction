@@ -28,6 +28,6 @@ noteworthy idiosyncracies as far as I know.
 ## References
 
 * inspired by https://www.kaggle.com/code/dbsimpson/mma-ml-model-fight-predictions-ufc-259/notebook
-* data from https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset?select=ufc-master.csv
+* data from https://www.kaggle.com/datasets/rajeevw/ufcdata
 * SciKeras from https://adriangb.com/scikeras/stable/index.html
 
